@@ -13,7 +13,8 @@ h1{
 	font-size: 32px;
 } 
 img{
-	width: 50px;
+	max-width: 20%;
+	height:auto;
 } 
 
 h2{
